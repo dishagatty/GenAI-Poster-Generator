@@ -1,0 +1,9 @@
+streamlit
+pillow
+requests
+python-dotenv
+huggingface_hub
+numpy
+reportlab
+opencv-python-headless
+pyarrow
